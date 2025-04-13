@@ -1,0 +1,26 @@
+body{
+    background-color: slateblue;
+    color: white;
+    text-align: center;
+}
+
+img{
+    border-radius: 75px;
+}
+
+a{
+    background-color: white;
+    font-size:18px;
+    padding: 10px;
+    text-decoration: none;
+    color: #6a5acd;
+    display: block;
+    margin: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+a:hover{
+    background-color: #3d3381;
+    color: white;
+}
